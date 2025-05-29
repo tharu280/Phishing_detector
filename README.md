@@ -1,7 +1,7 @@
 
 # Phishing Link Detector API
 
-This project is a **Phishing Link Detector** API built using a fine-tuned BERT model hosted on Hugging Face and served via FastAPI. It classifies text input as either **Phishing** or **Not Phishing**.
+This project is a **Phishing Link Detector** API built using a fine-tuned BERT model hosted on Hugging Face and served via FastAPI. It classifies link input as either **Phishing** or **Not Phishing**.
 
 ---
 
