@@ -7,7 +7,7 @@ This project is a **Phishing Link Detector** API built using a fine-tuned BERT m
 
 ## Features
 
-- Fine-tuned BERT model for phishing detection.
+- Fine-tuned z BERT model for phishing detection.
 - Easy-to-use REST API endpoint to classify URLs or text.
 - Fast and efficient inference using Hugging Face Transformers and PyTorch.
 - Simple JSON input/output interface.
