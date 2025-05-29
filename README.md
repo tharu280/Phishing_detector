@@ -30,7 +30,6 @@ The model is based on the **BERT** architecture and fine-tuned on a phishing det
 uvicorn main:app --reload
 ```
 
-*(Assuming your FastAPI app is in a file named `main.py`.)*
 
 ### POST `/predict`
 
